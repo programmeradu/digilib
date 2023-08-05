@@ -5,7 +5,7 @@
     under the terms of the MIT License; see LICENSE file for more details.
 
 =================
- Invenio App ILS
+ DigiLib ILS
 =================
 
 .. image:: https://img.shields.io/travis/inveniosoftware/invenio-app-ils.svg
@@ -19,5 +19,4 @@
 
 Integrated Library System based on Invenio
 
-Official documentation (under development) is available at
-https://invenioils.docs.cern.ch
+Official documentation
